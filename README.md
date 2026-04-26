@@ -50,7 +50,7 @@
     ```
 4.  **تحميل مستودع الأداة:**
     ```bash
-    git clone [https://github.com/Obadagamer/OBG-AC.git](https://github.com/Obadagamer/OBG-AC.git)
+    git clone https://github.com/Obadagamer/OBG-ACCOUNTS-HACK.git
     ```
 5.  **الدخول والتشغيل:**
     ```bash
